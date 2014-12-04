@@ -9,7 +9,7 @@ The code examples are organized into specific features, and start with a filenam
 NodeJS Installed (v0.10.26 at time of writing)
 
 #Install Instructions
-After checking out this repository, from the command prompt change into the repo's directory
+After checking out this repository, from the command prompt change into the repo's directory.
 Then run "node install", to install the code examples' dependecies.
 
 #Run the Examples
