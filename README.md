@@ -24,4 +24,4 @@ Finally, run any of the examples using node from the command prompt, i.e.
 node 05-validating_requests-hapi.js
 ```
 
-__Have a Hapi Day__
+
