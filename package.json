@@ -1,0 +1,26 @@
+{
+  "name": "hapi-vs-express",
+  "version": "1.0.0",
+  "description": "Intro to Hapi via a comparison with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kd7yva/hapi-vs-express"
+  },
+  "author": "Judd Flamm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kd7yva/hapi-vs-express/issues"
+  },
+  "homepage": "https://github.com/kd7yva/hapi-vs-express",
+  "dependencies": {
+    "express": "^4.10.4",
+    "handlebars": "^2.0.0",
+    "hapi": "^7.5.2",
+    "jade": "^1.8.1",
+    "joi": "^5.0.2"
+  }
+}
