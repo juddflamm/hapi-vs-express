@@ -10,7 +10,18 @@ NodeJS Installed (v0.10.26 at time of writing)
 
 #Install Instructions
 After checking out this repository, from the command prompt change into the repo's directory.
-Then run "node install", to install the code examples' dependecies.
+```
+$ cd hapi-vs-express
+```
+Then install the code examples' dependecies.
+```
+$ node install
+```
 
 #Run the Examples
-Finally, run any of the examples using node from the command prompt, i.e. "node 05-validating_requests-hapi.js"
+Finally, run any of the examples using node from the command prompt, i.e.
+```
+node 05-validating_requests-hapi.js
+```
+
+~~Have a Hapi Day~~
