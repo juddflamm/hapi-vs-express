@@ -14,7 +14,7 @@ server.route({
   path: '/',
   handler: function (request, reply) {
     server.methods.randomColor(function(err, colour) {
-      reply('Hello World from Hapi. Your color is: ' + colour);
+      reply('Your assigned color is: ' + colour + '<br>(this will expire in 10 seconds)');
     });
   }
 });
