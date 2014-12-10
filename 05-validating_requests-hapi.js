@@ -14,7 +14,7 @@ server.route({
         name: Joi.string().valid(["Ren","Stimpy"]).default("Stimpy")
       },
       query: {
-        id: Joi.number().integer().less(10).default(5)
+        id: Joi.number().integer().less(10).required()
       }
     }
   }
