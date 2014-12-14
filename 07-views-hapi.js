@@ -1,5 +1,10 @@
 var Hapi = require('hapi');
-var server = new Hapi.Server(3000);
+var server = new Hapi.Server();
+
+server.connection({
+  host: 'localhost',
+  port: 3000
+});
 
 server.views({ engines: { jade: require('jade') } });
 
