@@ -9,13 +9,13 @@ The code examples are organized into specific features, and start with a filenam
 NodeJS Installed (v0.10.26 at time of writing)
 
 ##Install Instructions
-After checking out this repository, from the command prompt change into the repo's directory.
 ```
+$ git clone https://github.com/kd7yva/hapi-vs-express.git
 $ cd hapi-vs-express
 ```
 Then install the code examples' dependecies.
 ```
-$ node install
+$ npm install
 ```
 
 ##Run the Examples
