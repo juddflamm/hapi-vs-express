@@ -1,6 +1,8 @@
 hapi-vs-express
 ===============
 
+Read the whole tutorial, [Hapi vs Express](http://megagalactic.io/hapi-vs-express/) on my blog.
+
 Intro to Hapi JS via a comparison with Express JS
 
 The code examples are organized into specific features, and start with a filename to mark the sequence of the examples.  It's best to review them in order, comparing Hapi to Express. 
